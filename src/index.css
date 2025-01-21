@@ -527,7 +527,7 @@ font-helvetica font-normal;
   }
 
   .footerLogoparent {
-    @apply h-[125px] w-[207px];
+    @apply h-[110px] w-[207px];
   }
 
   .footerSocailIcon {
