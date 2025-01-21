@@ -31,10 +31,10 @@ const Vision = () => {
     <section className="sectionGap pb-[70px]">
       <div className="WhyStudyParent mt-[-75px]">
         <div
-          ref={visionRef}
-          className={`animated-section-rtl text-right ${
-            isVisible ? "visible" : ""
-          }`}
+        // ref={visionRef}
+        // className={`animated-section-rtl text-right ${
+        //   isVisible ? "visible" : ""
+        // }`}
         >
           <h1 className="chooseUsSamll text-right text-white">
             <span className="text-[#F6941E]">Our</span> Vision
